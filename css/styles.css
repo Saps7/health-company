@@ -88,12 +88,12 @@ width: 15%;
 margin: 20px 20px 50px;
 }
 
-#footer {
+footer {
     background-color: #086972;
-    height: 15rem;
+    height: 18rem;
 }
 
-#footer ul, em{
+footer ul, em{
     list-style: none;
     color: #ffffff;
     margin-top: 3rem;
